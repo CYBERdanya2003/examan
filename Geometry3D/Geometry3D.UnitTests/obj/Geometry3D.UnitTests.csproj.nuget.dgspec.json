@@ -1,0 +1,108 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\DroidCam\\Zdanie5\\Exam\\examan\\Geometry3D\\Geometry3D.UnitTests\\Geometry3D.UnitTests.csproj": {}
+  },
+  "projects": {
+    "F:\\DroidCam\\Zdanie5\\Exam\\examan\\Geometry3D\\Geometry3D.UnitTests\\Geometry3D.UnitTests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\DroidCam\\Zdanie5\\Exam\\examan\\Geometry3D\\Geometry3D.UnitTests\\Geometry3D.UnitTests.csproj",
+        "projectName": "Geometry3D.UnitTests",
+        "projectPath": "F:\\DroidCam\\Zdanie5\\Exam\\examan\\Geometry3D\\Geometry3D.UnitTests\\Geometry3D.UnitTests.csproj",
+        "packagesPath": "C:\\Users\\danya\\.nuget\\packages\\",
+        "outputPath": "F:\\DroidCam\\Zdanie5\\Exam\\examan\\Geometry3D\\Geometry3D.UnitTests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\danya\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net7.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net7.0": {
+            "targetAlias": "net7.0",
+            "projectReferences": {
+              "F:\\DroidCam\\Zdanie5\\Exam\\examan\\Geometry3D\\Geometry3D\\Geometry3D.csproj": {
+                "projectPath": "F:\\DroidCam\\Zdanie5\\Exam\\examan\\Geometry3D\\Geometry3D\\Geometry3D.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.3.2, )"
+            },
+            "NUnit": {
+              "target": "Package",
+              "version": "[3.13.3, )"
+            },
+            "NUnit.Analyzers": {
+              "target": "Package",
+              "version": "[3.5.0, )"
+            },
+            "NUnit3TestAdapter": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[3.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "F:\\DroidCam\\Zdanie5\\Exam\\examan\\Geometry3D\\Geometry3D\\Geometry3D.csproj": {
+      "restore": {
+        "projectUniqueName": "F:\\DroidCam\\Zdanie5\\Exam\\examan\\Geometry3D\\Geometry3D\\Geometry3D.csproj",
+        "projectName": "Geometry3D",
+        "projectPath": "F:\\DroidCam\\Zdanie5\\Exam\\examan\\Geometry3D\\Geometry3D\\Geometry3D.csproj",
+        "frameworks": {
+          "net472": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net472": {}
+      }
+    }
+  }
+}
