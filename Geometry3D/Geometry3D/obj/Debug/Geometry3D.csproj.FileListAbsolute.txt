@@ -1,0 +1,6 @@
+F:\DroidCam\Zdanie5\Exam\examan\Geometry3D\Geometry3D\bin\Debug\Geometry3D.dll
+F:\DroidCam\Zdanie5\Exam\examan\Geometry3D\Geometry3D\bin\Debug\Geometry3D.pdb
+F:\DroidCam\Zdanie5\Exam\examan\Geometry3D\Geometry3D\obj\Debug\Geometry3D.csproj.AssemblyReference.cache
+F:\DroidCam\Zdanie5\Exam\examan\Geometry3D\Geometry3D\obj\Debug\Geometry3D.csproj.CoreCompileInputs.cache
+F:\DroidCam\Zdanie5\Exam\examan\Geometry3D\Geometry3D\obj\Debug\Geometry3D.dll
+F:\DroidCam\Zdanie5\Exam\examan\Geometry3D\Geometry3D\obj\Debug\Geometry3D.pdb

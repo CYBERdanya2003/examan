@@ -14,6 +14,22 @@ namespace Geometry3D
         {
             Radius = radius;
         }
+
+        public override bool ContainsPoint(Vector3 point)
+        {
+            var vector = point - Position;
+            var length2 = vector.GetLength2();
+            return length2 <= Radius * Radius;
+        }
+
+        public override RectangularCuboid GetBoundingBox()
+        {
+            var boundingBox = new RectangularCuboid(Position, 0, 0, 0);
+            boundingBox.SizeX = 2 * Radius;
+            boundingBox.SizeY = 2 * Radius;
+            boundingBox.SizeZ = 2 * Radius;
+            return boundingBox;
+        }
     }
 
 }

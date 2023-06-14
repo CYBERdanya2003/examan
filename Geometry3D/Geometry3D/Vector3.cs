@@ -68,7 +68,7 @@ namespace Geometry3D
             if (ReferenceEquals(null, obj)) return false;
             if (obj.GetType() != this.GetType()) return false;
 
-            var otherVector = (Vector3) obj;
+            var otherVector = (Vector3)obj;
             return X == otherVector.X
                    && Y == otherVector.Y
                    && Z == otherVector.Z;
